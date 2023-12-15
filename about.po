@@ -3,28 +3,32 @@
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-15 01:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2023-12-15 09:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: si_LK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.1\n"
 
 #: ../Doc/about.rst:3
 msgid "About these documents"
-msgstr ""
+msgstr "මෙම ලේඛනාවේ පිළිබඳව"
 
 #: ../Doc/about.rst:6
 msgid ""
 "These documents are generated from `reStructuredText`_ sources by `Sphinx`_, "
 "a document processor specifically written for the Python documentation."
 msgstr ""
+"මෙම ලේඛනය, Python ප්‍රලේඛනය සඳහා විශේෂයෙන් ලියා ඇති ලේඛන සකසනයක් වන `Sphinx`_ මගින් "
+"`reStructuredText`_ මූලාශ්‍රවලින් ජනනය කර ඇත."
 
 #: ../Doc/about.rst:15
 msgid ""
@@ -33,32 +37,41 @@ msgid ""
 "look at the :ref:`reporting-bugs` page for information on how to do so.  New "
 "volunteers are always welcome!"
 msgstr ""
+"ලේඛනගත කිරීම සහ එහි මෙවලම් දාමය සංවර්ධනය කිරීම Python මෙන්ම සම්පූර්ණයෙන්ම ස්වේච්ඡා "
+"උත්සාහයකි. ඔබට දායක වීමට අවශ්‍ය නම්, එසේ කරන්නේ කෙසේද යන්න පිළිබඳ තොරතුරු සඳහා කරුණාකර :"
+"ref:`reporting-bugs` පිටුව බලන්න. නව ස්වේච්ඡා සේවකයන් සැමවිටම සාදරයෙන් පිළිගනිමු!"
 
 #: ../Doc/about.rst:20
 msgid "Many thanks go to:"
-msgstr ""
+msgstr "ස්තුති කළ යුතු අය:"
 
 #: ../Doc/about.rst:22
 msgid ""
 "Fred L. Drake, Jr., the creator of the original Python documentation toolset "
 "and writer of much of the content;"
 msgstr ""
+"Fred L. Drake, Jr., මුල් Python ලේඛන මෙවලම් කට්ටලයේ නිර්මාතෘ සහ බොහෝ අන්තර්ගතයන් ලියා "
+"ඇත්තේ ඔවුන් විසිනි;"
 
 #: ../Doc/about.rst:24
 msgid ""
 "the `Docutils <https://docutils.sourceforge.io/>`_ project for creating "
 "reStructuredText and the Docutils suite;"
 msgstr ""
+"`ReStructuredText` සහ `Docutils` කට්ටලය නිර්මාණය කිරීම සඳහා `Docutils <https://"
+"docutils.sourceforge.io/>`_ ව්‍යාපෘතිය;"
 
 #: ../Doc/about.rst:26
 msgid ""
 "Fredrik Lundh for his Alternative Python Reference project from which Sphinx "
 "got many good ideas."
 msgstr ""
+"Fredrik Lundh ඔහුගේ විකල්ප Python විමර්ශන ව්‍යාපෘතිය සඳහා Sphinx හට බොහෝ හොඳ අදහස් "
+"ලැබුණි."
 
 #: ../Doc/about.rst:31
 msgid "Contributors to the Python Documentation"
-msgstr ""
+msgstr "Python ප්‍රලේඛනය සඳහා දායකයින්"
 
 #: ../Doc/about.rst:33
 msgid ""
@@ -66,9 +79,13 @@ msgid ""
 "library, and the Python documentation.  See :source:`Misc/ACKS` in the "
 "Python source distribution for a partial list of contributors."
 msgstr ""
+"Python පරිගණක භාෂාව, Python සම්මත පුස්තකාලය සහ Python ලේඛනගත කිරීම සඳහා බොහෝ දෙනෙක් "
+"දායක වී ඇත. දායකයින්ගේ අර්ධ ලැයිස්තුවක් සඳහා පයිතන් මූලාශ්‍ර බෙදාහැරීමේ :source:’Misc/"
+"ACKS’ බලන්න."
 
 #: ../Doc/about.rst:37
 msgid ""
 "It is only with the input and contributions of the Python community that "
 "Python has such wonderful documentation -- Thank You!"
 msgstr ""
+"Python ප්‍රජාවගේ ආදානය සහ දායකත්වය නිසා පයිතන් සතුව මෙතරම් හොඳ ලේඛනගත කිරීමක් ඇත — ස්තූතියි!"
